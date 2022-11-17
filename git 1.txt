@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 i love my college very much.
 i want to become a dancer
 .
+=======
+myself harshi
+
+
+>>>>>>> c98e8e0ff3e732952a09401914247b6170cea5eb
